@@ -1,0 +1,11 @@
+ Volume in drive C has no label.
+ Volume Serial Number is E0B5-8CA9
+
+ Directory of C:\Users\home\Desktop\projectd
+
+11/07/2018  07:56 PM    <DIR>          .
+11/07/2018  07:56 PM    <DIR>          ..
+11/07/2018  07:56 PM    <DIR>          .git
+11/07/2018  07:56 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               3 Dir(s)  100,536,922,112 bytes free
